@@ -1,0 +1,21 @@
+{
+  "name": "dsa-preparation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jitendra253/DSA-Preparation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Jitendra253/DSA-Preparation/issues"
+  },
+  "homepage": "https://github.com/Jitendra253/DSA-Preparation#readme"
+}
