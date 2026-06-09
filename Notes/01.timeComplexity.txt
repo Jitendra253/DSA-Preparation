@@ -1,0 +1,13 @@
+Space complexity = Memory:
+space complexity is the amount of space required to solve a problem
+space complexity = Auxiliary space + input size.
+
+
+
+Time complexity = No of line:
+The time complexity is mainly calculated by counting the number of steps to finish the execution.
+
+*Asymptotic analysis and nottion:
+->f(n) = 5n^2 +6n +12;
+->What is asymptotic analysis:
+    ->
