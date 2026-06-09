@@ -3,6 +3,5 @@ let eml=process.argv[2]
 
 for(let i = 0;i<data.length;i++){
     console.log(`array index of (${i}) is ${data[i]}`);
-    
 }
 console.log(data[eml])
